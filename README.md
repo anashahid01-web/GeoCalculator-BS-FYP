@@ -5,7 +5,6 @@
 BS (Hons.) Information Technology, Final Year Project
 [University of Gujrat](https://uog.edu.pk), Pakistan
 
-> **Note:** The original source code and project documents are no longer available. This page describes the project from my own records and memory.
 
 ---
 
